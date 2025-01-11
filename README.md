@@ -1,0 +1,1 @@
+Creating an LLM to make high-level decisions based on a constructed environment. This project is specifically for the Smart Lamp repo.
